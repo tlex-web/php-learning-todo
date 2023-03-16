@@ -1,0 +1,12 @@
+404, 13.12.2020 16:17,  ,::1
+404, 13.12.2020 16:17,  ,::1
+404, 13.12.2020 16:17,  ,::1
+404, 13.12.2020 16:18,  ,::1
+404, 13.12.2020 16:36,  ,::1
+404, 20.12.2020 21:17, http://localhost/rest-todo/model/t.php ,::1
+404, 20.12.2020 23:48, http://localhost/rest-todo/controller/tasks/1 ,::1
+404, 20.12.2020 23:48, http://localhost/rest-todo/controller/tasks/1/images ,::1
+404, 20.12.2020 23:50, http://localhost/rest-todo/controller/tasks/1/images ,::1
+404, 20.12.2020 23:51, http://localhost/rest-todo/controller/tasks/1/images ,::1
+404, 21.12.2020 02:18,  ,::1
+404, 21.12.2020 02:29, http://localhost/rest-todo/tasks/images ,::1
